@@ -57,6 +57,13 @@
   --img-hidden: hidden;
   --img-scale: scale(1.1);
 }
+p
+
+{
+
+color:blue;
+
+}
 
 @media screen and (min-width: 968px) {
   :root {
