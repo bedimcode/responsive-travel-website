@@ -58,6 +58,7 @@
   --img-scale: scale(1.1);
 }
 
+
 @media screen and (min-width: 968px) {
   :root {
     --biggest-font-size: 4rem;
