@@ -14,7 +14,7 @@ home__info-title
 5 best places to visit
 
 
-* ABOUT
+* ABOUT 
 section__title
 More Information <br> About The Best Beaches
 
@@ -65,7 +65,7 @@ footer__social
 https://www.facebook.com/
 https://www.instagram.com/
 https://twitter.com/
-https://www.youtube.com/
+
 
 
 footer__copy
